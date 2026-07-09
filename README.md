@@ -26,6 +26,6 @@ Our engineering model relies on real, heavy-lifting coders writing clean, manual
 If your team has an open issue, an urgent bug, or an upcoming feature module that needs expert hands immediately, let’s collaborate:
 
 * 🌐 **Website:** https://justtrytech.com/
-* 📧 **Email:** [Insert Company/Outreach Email]
-* 💼 **LinkedIn:** [Insert Company LinkedIn URL]
+* 📧 **Email:** business@justtrytech.com
+* 💼 **LinkedIn:** https://www.linkedin.com/company/justtrytechnologies/
 * 💬 **Next Step:** Drop a reply to our comment on your issue, or reach out directly via our contact details above to sync up on a brief call!
